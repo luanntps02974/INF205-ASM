@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6000C46E-AEBE-4198-83C1-EFF85989085B}</ProjectGuid>
+    <ProjectGuid>{56F26C6F-800F-45C0-A7F5-81096104D61A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
     <RootNamespace>WindowsApplication1</RootNamespace>
